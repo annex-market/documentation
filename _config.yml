@@ -1,5 +1,9 @@
-title: "Remote theme example"
+title: "Annex Market"
+
 # theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
+
 color_scheme: nil
 search_enabled: true
+
+# logo: "/assets/images/logo.svg"

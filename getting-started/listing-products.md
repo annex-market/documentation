@@ -150,33 +150,29 @@ Add a new product
 
     -   **Product type** - A category for the product that you can use to
         manage your products. For example, you can use the product type as a
-        condition for an [automated
-        collection](https://help.shopify.com/en/manual/products/collections/automated-collections),
-        or to help you filter your products in the Shopify admin. A product
-        can have only one product type.
-
+        condition for an [automated collection](https://help.shopify.com/en/manual/products/collections/automated-collections), or to help you filter your products
+        in the Shopify admin. A product can have only one product type.
+        &nbsp;
         You can choose from any defined product type, or create a new one.
         To create a product type, enter it into the **Product type** field
         and then save the product. You can also create and edit product
-        types in the [bulk
-        editor](https://help.shopify.com/en/manual/productivity-tools/bulk-editing-products).
+        types in the [bulk editor](https://help.shopify.com/en/manual/productivity-tools/bulk-editing-products).
 
     -   **Vendor** - The manufacturer, wholesaler, or other vendor for the
         product. You can filter your product list by vendor, which can speed
         up ordering inventory.
 
     -   **Collections** - The collections that a product is included in. You
-        can use this field to add the product directly to [a manual
-        collection](https://help.shopify.com/en/manual/products/collections/manual-shopify-collection#create-a-manual-collection).
-        Automated collections include the product when it matches the
-        collection conditions.
+        can use this field to add the product directly to [a manual collection](https://help.shopify.com/en/manual/products/collections/manual-shopify-collection#create-a-manual-collection).
+        Automated collections include the product when it matches the collection
+        conditions.
 
     -   **Tags** - Tags are searchable keywords that you can associate with
         your product. Tags can help customers find your product through your
         online store search, and you can also use them to create [automated
         collections](https://help.shopify.com/en/manual/products/collections/automated-collections/auto-select).
-        For more information about tags, see [*Tag
-        formats*](https://help.shopify.com/en/manual/products/details/tags).
+        &nbsp;
+        For more information about tags, see [*Tag formats*](https://help.shopify.com/en/manual/products/details/tags).
 
 4.  Click **Save**. <br />
     <img src="https://cdn.shopify.com/shopifycloud/help/assets/manual/products/add-update-products/click-save-d701ebc7f7fe0ff6941f89de72c09f96a6b572bf9a3bfad23aeab010f084edfe.png" width="1024" height="483" alt="" />
